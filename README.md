@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Neeraj Wadhwaney and I'm a Java Developer, from India</h2>
 
-- 🔭 I’m currently working on **Elevare**
+- 🔭 I’m currently working on **BlogHub**
 
 - 🌱 I’m currently learning **Spring Boot**
 
