@@ -74,4 +74,10 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=neeraj2710&show_icons=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=neeraj2710&layout=compact&theme=dracula" height="150"/>
 </div>
-<img src="https://streak-stats.demolab.com?user=neeraj2710&theme=dracula" />
+
+<br/>
+
+<!-- Streak (center me) -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=neeraj2710&theme=dracula"/>
+</div>
